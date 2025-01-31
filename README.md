@@ -28,7 +28,6 @@ The game is developed using **Unity 3D (2022.3 LTS)** and programmed in **C#**.
 5. **Earn Points and Progress**
    - Score higher by fulfilling orders accurately and quickly.
    - Advance through various levels with increasing complexity.
-   - Unlock new pharmacy setups and challenges.
 
 ## Features
 - **Avatar Customization** – Design your own pharmacist character.
