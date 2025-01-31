@@ -38,13 +38,13 @@ The game is developed using **Unity 3D (2022.3 LTS)** and programmed in **C#**.
 - **Educational Elements** – Learn about medications and pharmacist responsibilities.
 
 ## How to Install on Your Laptop
-
+```
 - Create a folder in your desired directory.
 - Open a terminal or command prompt.
 - Run the command: git clone https://github.com/jimbarcos/Overdose
 - Navigate to the cloned folder, click Overdose.
 - Follow the game instructions to start playing Overdose.
-
+```
 ## System Requirements
 - **Operating System**: Windows/macOS/Linux
 - **Processor**: Intel Core i5 or equivalent
