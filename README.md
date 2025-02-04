@@ -1,7 +1,7 @@
 # Overdose - A Pharmacy Simulation Game
 
 ## Overview
-**Overdose** is an interactive simulation game designed to educate players about the daily responsibilities of a community pharmacist. The game emphasizes accuracy, time management, and problem-solving skills in a fast-paced environment. Inspired by the mechanics of *Overcooked*, **Overdose** presents engaging challenges while raising awareness about the crucial role pharmacists play in healthcare.
+**Overdose** is an interactive simulation game designed to educate players about the daily responsibilities of a community pharmacist. The game emphasizes time management, and problem-solving skills in a fast-paced environment. Inspired by the mechanics of *Overcooked*, **Overdose** presents engaging challenges while raising awareness about the crucial role pharmacists play in healthcare.
 
 ## Platform
 The game is developed using **Unity 3D (2022.3 LTS)** and programmed in **C#**.
