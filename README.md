@@ -6,7 +6,7 @@
 ## Platform
 The game is developed using **Unity 3D (2022.3 LTS)** and programmed in **C#**.
 ### Other Tech Stack Involved:
-Firebase Authentication & Realtime Database, Google Cloud Function
+Firebase Authentication & Realtime Database, Google Cloud Function via Node js
 
 ## Screenshot of the Program
 ![Image](https://github.com/user-attachments/assets/032c6e46-8906-4f4c-8ae0-c0a66ce99bd0)
